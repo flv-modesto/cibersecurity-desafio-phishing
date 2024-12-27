@@ -1,11 +1,12 @@
 # cibersecurity-desafio-phishing
 
-# captura de senhas do Facebook
-# Ferramentas
+# Captura de senhas 
+
+Ferramentas
 Kali Linux
 setoolkit
 
-# Configurando o Phishing no Kali Linux
+Configurando o Phishing no Kali Linux
 Acesso root: sudo su
 Iniciando o setoolkit: setoolkit
 Tipo de ataque: Social-Engineering Attacks
